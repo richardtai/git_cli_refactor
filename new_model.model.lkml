@@ -1,4 +1,4 @@
-connection: "connection_name"
+connection: "a_new_connection_name"
 
 include: "*.view.lkml"                       # include all views in this project
 # include: "my_dashboard.dashboard.lookml"   # include a LookML dashboard called my_dashboard
